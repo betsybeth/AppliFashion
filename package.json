@@ -1,0 +1,24 @@
+{
+  "name": "AppliFashion",
+  "version": "1.0.0",
+  "description": "Applitools hackathon for cross browser testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betsybeth/AppliFashion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betsybeth/AppliFashion/issues"
+  },
+  "homepage": "https://github.com/betsybeth/AppliFashion#readme",
+  "dependencies": {
+    "@applitools/eyes-testcafe": "github:applitools/eyes-testcafe",
+    "testcafe": "^1.8.6"
+  }
+}
