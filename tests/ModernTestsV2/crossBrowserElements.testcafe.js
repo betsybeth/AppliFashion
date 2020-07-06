@@ -11,10 +11,7 @@ const eyes = new Eyes();
 
 fixture `cross Browser Elements Version 2`
     .page('https://demo.applitools.com/gridHackathonV2.html')
-    .beforeEach( async t => {
-        // default viewport 
-        await t.resizeWindow(800, 600)
-    })
+    
     .afterEach(async () => eyes.close())
     .after(async () => {
        let testResults = await  eyes.waitForResults(false)
@@ -22,7 +19,7 @@ fixture `cross Browser Elements Version 2`
     })
 
     test("Validate  visually changing elements", async t => {
-    
+        await t.resizeWindow(800, 600)
         await eyes.open({
             t,
             appName: "Applitools",
@@ -54,6 +51,7 @@ fixture `cross Browser Elements Version 2`
     })
 
    test("Verify navigation to a product details page", async t => {
+    await t.resizeWindow(800, 600)
         await eyes.open({
             t,
             appName: "Applitools",

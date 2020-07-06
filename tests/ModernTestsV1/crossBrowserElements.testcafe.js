@@ -8,11 +8,7 @@ const eyes = new Eyes();
 
 
 fixture `Cross Browser Tests Version 1`
-    .page('https://demo.applitools.com/gridHackathonV1.html')
-    .beforeEach( async t => {
-        // default viewport 
-        await t.resizeWindow(800, 600)
-    })
+    .page('https://demo.applitools.com/gridHackathonV1.html')   
     .afterEach(async () => eyes.close())
     .after(async () => {
         let testResults = await  eyes.waitForResults(false)
@@ -21,6 +17,7 @@ fixture `Cross Browser Tests Version 1`
 
 
     test("Validate  visually changing elements", async t => {
+        await t.resizeWindow(800, 600)
             await eyes.open({
             t,
             appName: "Applitools",
@@ -52,6 +49,7 @@ fixture `Cross Browser Tests Version 1`
     })   
 
     test("Verify that the filter functionality is working", async t => {
+        await t.resizeWindow(800, 600)
         await eyes.open({
             t,
             appName: "Applitools",
