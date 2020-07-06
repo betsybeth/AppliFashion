@@ -1,5 +1,6 @@
 module.exports = {
-    apiKey: '1pUvCBCtI106Hz109RT0hzBIEgJDowM1ZXLJFZadyXGYFZI110',
+    // ADD your applitools api key
+    apiKey: API_KEY,
     browser: [
         {width: 1200, height: 700, name: 'chrome'},
         {width:1200,  height:700, name: 'firefox' },
