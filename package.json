@@ -4,7 +4,9 @@
   "description": "Applitools hackathon for cross browser testing.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "testcafe chrome:headless ./tests/ModernTestsV2",
+    "modernV1": "testcafe chrome:headless ./tests/ModernTestsV1",
+    "traditional": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +21,7 @@
   "homepage": "https://github.com/betsybeth/AppliFashion#readme",
   "dependencies": {
     "@applitools/eyes-testcafe": "github:applitools/eyes-testcafe",
+    "fs": "0.0.1-security",
     "testcafe": "^1.8.6"
   }
 }
