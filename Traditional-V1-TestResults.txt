@@ -1,0 +1,165 @@
+"Task: 1, Test Name: Search bar is displayed, DOM Id: INPUTtext____42, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search bar is displayed, DOM Id: INPUTtext____42, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search bar is displayed, DOM Id: INPUTtext____42, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search bar is displayed, DOM Id: INPUTtext____42, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search bar is displayed, DOM Id: INPUTtext____42, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Fail
+"Task: 1, Test Name: Search bar is displayed, DOM Id: INPUTtext____42, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: I__headericon__44, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: I__headericon__44, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Fail
+"Task: 1, Test Name: Search bar is displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search bar is displayed, DOM Id: DIV__customsear__41, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search bar is displayed, DOM Id: DIV__customsear__41, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search bar is displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search bar is displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search bar is displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Fail
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: A__btnsearchm__59, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: A__btnsearchm__59, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: A__btnsearchm__59, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search Icon is displayed, DOM Id: A__btnsearchm__59, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Fail
+"Task: 1, Test Name: Profile Icon is displayed, DOM Id: A__accesslink__56, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Profile Icon is displayed, DOM Id: A__accesslink__56, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Profile Icon is displayed, DOM Id: A__accesslink__56, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Profile Icon is displayed, DOM Id: A__accesslink__56, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Profile Icon is displayed, DOM Id: A__accesslink__56, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Profile Icon is displayed, DOM Id: A__accesslink__56, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Cart Icon is displayed, DOM Id: A__cartbt__49, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Cart Icon is displayed, DOM Id: A__cartbt__49, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Cart Icon is displayed, DOM Id: A__cartbt__49, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Cart Icon is displayed, DOM Id: A__cartbt__49, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Cart Icon is displayed, DOM Id: A__cartbt__49, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Cart Icon is displayed, DOM Id: A__cartbt__49, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Home Navbar  is displayed, DOM Id: A__showsubmen__23, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Home Navbar  is displayed, DOM Id: A__showsubmen__23, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Home Navbar  is displayed, DOM Id: A__showsubmen__23, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Home Navbar  is displayed, DOM Id: A__showsubmen__23, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Home Navbar  is displayed, DOM Id: A__showsubmen__23, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Home Navbar  is displayed, DOM Id: A__showsubmen__23, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Men Navbar  is displayed, DOM Id: A__showsubmen__25, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Men Navbar  is displayed, DOM Id: A__showsubmen__25, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Men Navbar  is displayed, DOM Id: A__showsubmen__25, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Men Navbar  is displayed, DOM Id: A__showsubmen__25, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Men Navbar  is displayed, DOM Id: A__showsubmen__25, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Men Navbar  is displayed, DOM Id: A__showsubmen__25, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Women Navbar  is displayed, DOM Id: A__showsubmen__27, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Women Navbar  is displayed, DOM Id: A__showsubmen__27, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Women Navbar  is displayed, DOM Id: A__showsubmen__27, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Women Navbar  is displayed, DOM Id: A__showsubmen__27, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Women Navbar  is displayed, DOM Id: A__showsubmen__27, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Women Navbar  is displayed, DOM Id: A__showsubmen__27, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Running Navbar  is displayed, DOM Id: A__showsubmen__29, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Running Navbar  is displayed, DOM Id: A__showsubmen__29, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Running Navbar  is displayed, DOM Id: A__showsubmen__29, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Running Navbar  is displayed, DOM Id: A__showsubmen__29, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Running Navbar  is displayed, DOM Id: A__showsubmen__29, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Running Navbar  is displayed, DOM Id: A__showsubmen__29, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Training Navbar  is displayed, DOM Id: A__showsubmen__31, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Training Navbar  is displayed, DOM Id: A__showsubmen__31, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Training Navbar  is displayed, DOM Id: A__showsubmen__31, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Training Navbar  is displayed, DOM Id: A__showsubmen__31, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Training Navbar  is displayed, DOM Id: A__showsubmen__31, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Training Navbar  is displayed, DOM Id: A__showsubmen__31, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Side filter navbar is displayed, DOM Id: filter_col, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Side filter navbar is displayed, DOM Id: filter_col, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Side filter navbar is displayed, DOM Id: filter_col, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Side filter navbar is displayed, DOM Id: filter_col, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Side filter navbar is displayed, DOM Id: filter_col, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Side filter navbar is displayed, DOM Id: filter_col, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Filter icons are displayed, DOM Id: LI____200, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Filter icons are displayed, DOM Id: LI____200, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Filter icons are displayed, DOM Id: LI____200, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Filter icons are displayed, DOM Id: LI____200, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Filter icons are displayed, DOM Id: LI____200, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Filter icons are displayed, DOM Id: LI____200, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Footer is displayed, DOM Id: FOOTER____417, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: Footer is displayed, DOM Id: FOOTER____417, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Footer is displayed, DOM Id: FOOTER____417, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Footer is displayed, DOM Id: FOOTER____417, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Footer is displayed, DOM Id: FOOTER____417, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Footer is displayed, DOM Id: FOOTER____417, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: QUICK LINKS section is displayed, DOM Id: DIV__collgcolmd__420, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: QUICK LINKS section is displayed, DOM Id: DIV__collgcolmd__420, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: QUICK LINKS section is displayed, DOM Id: DIV__collgcolmd__420, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: QUICK LINKS section is displayed, DOM Id: DIV__collgcolmd__420, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: QUICK LINKS section is displayed, DOM Id: DIV__collgcolmd__420, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: QUICK LINKS section is displayed, DOM Id: DIV__collgcolmd__420, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: CONTACTS section is displayed, DOM Id: DIV__collgcolmd__436, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: CONTACTS section is displayed, DOM Id: DIV__collgcolmd__436, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: CONTACTS section is displayed, DOM Id: DIV__collgcolmd__436, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: CONTACTS section is displayed, DOM Id: DIV__collgcolmd__436, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: CONTACTS section is displayed, DOM Id: DIV__collgcolmd__436, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: CONTACTS section is displayed, DOM Id: DIV__collgcolmd__436, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: KEEP IN TOUCH section is displayed, DOM Id: #DIV__collgcolmd__446, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 1, Test Name: KEEP IN TOUCH section is displayed, DOM Id: #DIV__collgcolmd__446, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: KEEP IN TOUCH section is displayed, DOM Id: #DIV__collgcolmd__446, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: KEEP IN TOUCH section is displayed, DOM Id: #DIV__collgcolmd__446, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: KEEP IN TOUCH section is displayed, DOM Id: #DIV__collgcolmd__446, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: KEEP IN TOUCH section is displayed, DOM Id: #DIV__collgcolmd__446, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Navigate to individual product details , DOM Id: #page, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 3, Test Name: Navigate to individual product details , DOM Id: #page, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Navigate to individual product details , DOM Id: #page, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Navigate to individual product details , DOM Id: #page, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Navigate to individual product details , DOM Id: #page, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Navigate to individual product details , DOM Id: #page, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Individual product image is displayed, DOM Id: shoe_img, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 3, Test Name: Individual product image is displayed, DOM Id: shoe_img, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Individual product image is displayed, DOM Id: shoe_img, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Individual product image is displayed, DOM Id: shoe_img, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Individual product image is displayed, DOM Id: shoe_img, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Individual product image is displayed, DOM Id: shoe_img, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: 'Add to cart' button is displayed, DOM Id: A__btn__114, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: 'Add to cart' button is displayed, DOM Id: A__btn__114, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: 'Add to cart' button is displayed, DOM Id: A__btn__114, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 3, Test Name: 'Add to cart' button is displayed, DOM Id: A__btn__114, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: 'Add to cart' button is displayed, DOM Id: A__btn__114, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: 'Add to cart' button is displayed, DOM Id: A__btn__114, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: New price  text is displayed, DOM Id: new_price, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 3, Test Name: New price  text is displayed, DOM Id: new_price, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: New price  text is displayed, DOM Id: new_price, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: New price  text is displayed, DOM Id: new_price, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: New price  text is displayed, DOM Id: new_price, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: New price  text is displayed, DOM Id: new_price, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Old price  text is displayed, DOM Id: old_price, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 3, Test Name: Old price  text is displayed, DOM Id: old_price, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Old price  text is displayed, DOM Id: old_price, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Old price  text is displayed, DOM Id: old_price, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Old price  text is displayed, DOM Id: old_price, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Old price  text is displayed, DOM Id: old_price, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Review text and icons are displayed, DOM Id: PAN__rating__76, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Review text and icons are displayed, DOM Id: PAN__rating__76, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 3, Test Name: Review text and icons are displayed, DOM Id: PAN__rating__76, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Review text and icons are displayed, DOM Id: PAN__rating__76, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Review text and icons are displayed, DOM Id: PAN__rating__76, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Review text and icons are displayed, DOM Id: PAN__rating__76, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product description is displayed, DOM Id: P____83, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product description is displayed, DOM Id: P____83, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product description is displayed, DOM Id: P____83, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product description is displayed, DOM Id: P____83, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product description is displayed, DOM Id: P____83, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product description is displayed, DOM Id: P____83, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product name is displayed, DOM Id: #shoe_name, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product name is displayed, DOM Id: #shoe_name, Browser: Chrome, Viewport:500x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product name is displayed, DOM Id: #shoe_name, Browser: Microsoft Edge, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product name is displayed, DOM Id: #shoe_name, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product name is displayed, DOM Id: #shoe_name, Browser: Chrome, Viewport:768x 700, Device: Laptop, Status: Pass
+"Task: 3, Test Name: Product name is displayed, DOM Id: #shoe_name, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Verify filtering black shoes, DOM Id: product_grid, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 2, Test Name: Verify filtering black shoes, DOM Id: product_grid, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Verify filtering black shoes, DOM Id: product_grid, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Heart icon is  displayed on hover, DOM Id: I__tiheart__225, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Heart icon is  displayed on hover, DOM Id: I__tiheart__225, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Heart icon is  displayed on hover, DOM Id: I__tiheart__225, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 2, Test Name: Share icon is displayed on hover, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Share icon is displayed on hover, DOM Id: I__ticontrols__229, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 2, Test Name: Share icon is displayed on hover, DOM Id: I__ticontrols__229, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Shopping cart icon is displayed on hover, DOM Id: I__tishopping__302, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Shopping cart icon is displayed on hover, DOM Id: I__tishopping__302, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Shopping cart icon is displayed on hover, DOM Id: I__tishopping__302, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
+"Task: 2, Test Name: Black shoes Images are  displayed, DOM Id: IMG__imgfluid__215, Browser: Chrome, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Black shoes Images are  displayed, DOM Id: IMG__imgfluid__215, Browser: Microsoft Edge, Viewport:120x 0700, Device: Laptop, Status: Pass
+"Task: 2, Test Name: Black shoes Images are  displayed, DOM Id: IMG__imgfluid__215, Browser: Firefox, Viewport:x , Device: Laptop, Status: Pass
